@@ -1,3 +1,5 @@
+
+
 # Go Producer-Consumer and String Reversal Example
 
 This Go project demonstrates a combination of two common programming concepts: 
@@ -19,11 +21,19 @@ This Go project demonstrates a combination of two common programming concepts:
 ## How to Run the Project
 
 ### 1. Clone the Repository
-First, clone the repository or download the `main.go` file.
+
+You can clone this repository using the following command:
 
 ```bash
-git clone <repository-url>
-cd <project-directory>
+gh repo clone bsagute/all-files-data
+cd all-files-data
+```
+
+Alternatively, you can clone it using HTTPS:
+
+```bash
+git clone https://github.com/bsagute/all-files-data.git
+cd all-files-data
 ```
 
 ### 2. Run the Go Program
@@ -90,5 +100,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Enjoy coding with Go! If you have any issues, feel free to open a new issue in the repository.
 
 ---
-
-This `README.md` provides detailed instructions on how to run the project, what the code does, and how to modify parameters for different behavior.
